@@ -12,13 +12,13 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.17.1",
-    "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.5"
+    "express": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.4",
-    "@babel/preset-env": "^7.5.4",
-    "babel-loader": "^8.0.6"
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "babel-loader": "latest"
   }
 }
